@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\Documentos"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Pimer Proyecto"
+  }
+}
